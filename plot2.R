@@ -8,7 +8,7 @@
 
 
 #Set your working directory
-setwd('C:/Users/rober/OneDrive/data-projects/coursera/plot_project_1')
+setwd('your wd here')
 
 #Install necessary packages
 library(lubridate)
@@ -61,7 +61,7 @@ if (!file.exists('./data/power_data.zip')) {
 #                         #
 
 #Identify path for PNG to reside
-png_path <- "C:/Users/rober/OneDrive/data-projects/coursera/plot_project_1/plot2.png"
+png_path <- "your path here/plot4.png"
 
 #Identify PNG characteristics
 width <- 480
